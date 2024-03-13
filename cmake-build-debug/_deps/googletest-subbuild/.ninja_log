@@ -1,0 +1,21 @@
+# ninja log v5
+0	14	1698854240990494491	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	7a0003baf3a1694
+1216	1226	1698854242202759244	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	68e67e93e04b55e3
+14	1203	1698854242179644817	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	2abe47a6b4f4cd8e
+1263	1276	1698854242252748449	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	e9ae614c20b79d60
+1216	1226	1698854242202759244	/Users/yuxinyuan/CLionProjects/oop-work-studio16_thornton_yu/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	68e67e93e04b55e3
+0	14	1698854240990494491	/Users/yuxinyuan/CLionProjects/oop-work-studio16_thornton_yu/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	7a0003baf3a1694
+1236	1245	1698854242222408274	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	d8717f00c29fd84a
+14	1203	1698854242179644817	/Users/yuxinyuan/CLionProjects/oop-work-studio16_thornton_yu/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	2abe47a6b4f4cd8e
+1245	1255	1698854242232152478	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	1532de63326df7f3
+1226	1236	1698854242212777902	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	f422a42ffdf7f93e
+1226	1236	1698854242212777902	/Users/yuxinyuan/CLionProjects/oop-work-studio16_thornton_yu/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	f422a42ffdf7f93e
+1203	1216	1698854242192998499	/Users/yuxinyuan/CLionProjects/oop-work-studio16_thornton_yu/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	f9ca7dc87b73f9f2
+1245	1255	1698854242232152478	/Users/yuxinyuan/CLionProjects/oop-work-studio16_thornton_yu/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	1532de63326df7f3
+1236	1245	1698854242222408274	/Users/yuxinyuan/CLionProjects/oop-work-studio16_thornton_yu/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	d8717f00c29fd84a
+1203	1216	1698854242192998499	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	f9ca7dc87b73f9f2
+1263	1276	1698854242252748449	/Users/yuxinyuan/CLionProjects/oop-work-studio16_thornton_yu/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	e9ae614c20b79d60
+1255	1263	1698854242240418999	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	2f72f7695545a11c
+1263	1276	1698854242252748449	/Users/yuxinyuan/CLionProjects/oop-work-studio16_thornton_yu/cmake-build-debug/_deps/googletest-subbuild/CMakeFiles/googletest-populate-complete	e9ae614c20b79d60
+1255	1263	1698854242240418999	/Users/yuxinyuan/CLionProjects/oop-work-studio16_thornton_yu/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	2f72f7695545a11c
+1263	1276	1698854242252748449	CMakeFiles/googletest-populate-complete	e9ae614c20b79d60
